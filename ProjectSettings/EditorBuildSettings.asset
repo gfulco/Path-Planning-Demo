@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/MainScene.unity
+    guid: a19ad6a375efde2469f25e855ff37d2a
+  - enabled: 1
+    path: Assets/Scenes/TheorySlideshow.unity
+    guid: 097543dfa46d6bc4dbb7fa2d99024ef4
+  - enabled: 1
+    path: Assets/Scenes/CodeSlideshow.unity
+    guid: d68fba2bda32e5043b56d2ff32f24e53
+  m_configObjects: {}
